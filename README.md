@@ -17,25 +17,33 @@ An automated Named Entity Recognition (NER) annotation service that leverages Hu
 ### Prerequisites
 
 - Python 3.7+
-- Flask
-- Transformers library
-- PyTorch
-- Werkzeug
+- Dependencies (specified versions):
+  ```
+  Flask==3.0.3
+  transformers==4.45.2
+  Werkzeug==3.0.4
+  ```
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SakibAhmedShuva/Auto-NER-Annotation-with-Hugging-Face-Model.git
+git clone https://github.com/yourusername/Auto-NER-Annotation-with-Hugging-Face-Model.git
 cd Auto-NER-Annotation-with-Hugging-Face-Model
 ```
 
-2. Install required packages:
+2. Create and activate a virtual environment (recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up your models directory:
+4. Set up your models directory:
 ```bash
 mkdir models
 # Place your Hugging Face NER models in the models directory
