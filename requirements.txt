@@ -1,0 +1,3 @@
+Flask==3.0.3
+transformers==4.45.2
+Werkzeug==3.0.4
