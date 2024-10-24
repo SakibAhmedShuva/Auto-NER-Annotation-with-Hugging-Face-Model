@@ -1,6 +1,6 @@
 # Auto NER Annotation with Hugging Face Model
 
-An automated Named Entity Recognition (NER) annotation service that leverages Hugging Face transformer models to generate annotations for text data. This service is designed to streamline the NER annotation process by automatically identifying and labeling entities in text.
+An automated Named Entity Recognition (NER) annotation service that leverages Hugging Face transformer models to generate annotations for text data. This service is designed to streamline the NER annotation process by automatically identifying and labeling entities in text. You can import the ner annotations to Label Studio as well. Please see the samples folder to learn about input data structure.
 
 ## 🌟 Features
 
