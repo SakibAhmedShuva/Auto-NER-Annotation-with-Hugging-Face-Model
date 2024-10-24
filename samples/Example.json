@@ -1,0 +1,14 @@
+{
+  "ModelId": "MODELNAME-0001",
+  "Objects": [
+    {
+      "Text": "this is sentence o1."
+    },
+    {
+      "Text": "this is sentence o2."
+    },
+    {
+      "Text": "this is sentence o3."
+    }
+  ]
+}
