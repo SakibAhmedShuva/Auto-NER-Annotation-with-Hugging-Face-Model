@@ -28,7 +28,7 @@ An automated Named Entity Recognition (NER) annotation service that leverages Hu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Auto-NER-Annotation-with-Hugging-Face-Model.git
+git clone https://github.com/SakibAhmedShuva/Auto-NER-Annotation-with-Hugging-Face-Model.git
 cd Auto-NER-Annotation-with-Hugging-Face-Model
 ```
 
